@@ -20,7 +20,6 @@ class Program {
         streetNumber = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("");
         Console.WriteLine("Your address is: " + streetName + " " + streetNumber + ".");
-
         Console.WriteLine("\nDone.");
     }
 }
