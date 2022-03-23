@@ -6,7 +6,6 @@
 using System;
 
 class Program {
-  
   public static void Main(string[] args)
     {
         // This function states user's address input.
@@ -14,7 +13,6 @@ class Program {
         int streetNumber;
         Console.WriteLine("This program will retell you your street name and street number.");
         Console.WriteLine("");
-    
         Console.Write("Enter your street name: ");
         streetName = Console.ReadLine();
         Console.Write("Enter your street number: ");
