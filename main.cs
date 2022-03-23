@@ -1,3 +1,4 @@
+
 // Created by: Zaida Hammel
 // Created on: March 2022
 // 
@@ -17,7 +18,6 @@ class Program {
 
         Console.Write("Enter your street name: ");
         streetName = Console.ReadLine();
-    
         Console.Write("Enter your street number: ");
         streetNumber = Convert.ToInt32(Console.ReadLine());
 
