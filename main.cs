@@ -9,7 +9,7 @@ using System;
 class Program {
   public static void Main(string[] args)
     {
-        // This function states user's address input.
+        // This function states user's street name and street number.
         string streetName;
         int streetNumber;
 
